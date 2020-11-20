@@ -1,0 +1,13 @@
+{
+    "name": "rvtraveller/aws-reinvent-2020-sessions",
+    "require": {
+        "gabordemooij/redbean": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Thompson",
+            "email": "bthompson@mindgrub.com"
+        }
+    ]
+}
